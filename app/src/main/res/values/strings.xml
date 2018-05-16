@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeDataMonitor</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="roomId">房间号</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="apply">应用</string>
+    <string name="room_id_hint">请输入要查询的房间号</string>
+</resources>

@@ -1,0 +1,15 @@
+mqtt broker url
+    tcp://homedata.mqtt.iot.bj.baidubce.com:1883
+    ssl://homedata.mqtt.iot.bj.baidubce.com:1884
+    wss://homedata.mqtt.iot.bj.baidubce.com:8884
+
+user list
+    homedata/emulator    # publish:pub_homedata subscribe:req_homedata
+    BrHIjdLxTfa/pBLKItyc0UDo2NIl4HAIOqAgt3HOAQ4=
+
+    homedata/monitor     # publish:req_homedata subscribe:pub_homedata
+    r2MFyMnO6OGn0uOj0KX5RJ9a/40LiY6VNPtOzXy7cjY=
+
+topic
+    sub_homedata
+    req_homedata
