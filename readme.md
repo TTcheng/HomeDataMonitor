@@ -31,4 +31,4 @@ implementation 'com.android.support:design:27.1.1'
 3. **点击刷新即可**
 4. **支持双指缩放**
 
-![1526452356011](asserts/1526452356011.png)
+![1526452356011](assets/1526452356011.png)
